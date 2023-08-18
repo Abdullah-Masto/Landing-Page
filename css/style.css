@@ -129,3 +129,22 @@
   text-transform: lowercase;
 }
 /* end information section */
+
+/* start quote section */
+#quote {
+  background-color: var(--hero-secondary-text);
+  padding: 4rem;
+}
+#quote .quote {
+  color: var(--dark-background);
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+}
+#quote .sayer {
+  display: block;
+  margin-top: 2rem;
+  text-align: right;
+  font-weight: bold;
+}
+/* end quote section */
