@@ -96,7 +96,7 @@
 
 /* start the information section */
 #information {
-  padding: 1rem 0;
+  padding: 1rem 4rem;
 }
 #information .container h1 {
   text-align: center;
@@ -128,3 +128,4 @@
   text-align: center;
   text-transform: lowercase;
 }
+/* end information section */
